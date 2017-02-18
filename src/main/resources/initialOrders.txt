@@ -1,0 +1,8 @@
+1,BUY,user 1,4.0,309
+2,BUY,user 2,3.7,304
+3,BUY,user 3,3.4,309
+4,BUY,user 4,4.1,303
+5,SELL,user 1,3.5,306
+6,SELL,user 2,1.2,310
+7,SELL,user 3,1.5,307
+8,SELL,user 4,2.0,306
